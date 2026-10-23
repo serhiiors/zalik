@@ -1,0 +1,71 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	result.txt
+	results.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+  branch
+* main
+commit 8449d200e8f4c610086641b328bc0d61fe184984
+Author: Serhiiors <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 10:26:02 2026 +0300
+
+    Rename zalik1 to zalik1.py
+
+commit 5828c784cf0c4ce33ad0a964b67c9e8ac0b05bf2
+Author: Serhiiors <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 10:25:36 2026 +0300
+
+    Add print statement to zalik1
+
+commit cb7fd83091122b37bdd888a9847440a3f29766b3
+Merge: d8b2a8f d9ecc23
+Author: Keveone <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 10:21:38 2026 +0300
+
+    fix conflickt
+
+commit d8b2a8f7b0ff328e1107a861f180d8fccd2dfcd4
+Author: Keveone <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 10:16:52 2026 +0300
+
+    change hello world on bye bye world
+
+commit d9ecc239b3e865744843317725fdfb8d8b53e66c
+Author: Keveone <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 10:13:01 2026 +0300
+
+    Add print hello world
+
+commit 7086f608b90a3c3eded71db59859d84b8ea99c97
+Author: Keveone <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 10:10:04 2026 +0300
+
+    Add bla bla bla
+
+commit 1a9e18698078ab315271011a4efaee4c799e703f
+Author: Keveone <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 10:07:48 2026 +0300
+
+    Second version with changes
+
+commit 41b538c56cfa9fdf340eb4cdea27be5c8edba4dc
+Author: Keveone <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 10:03:16 2026 +0300
+
+    Create a first version
+
+commit 583f237fa9ae254f6620078ef8312505d15661cf
+Author: Serhiiors <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 09:57:18 2026 +0300
+
+    Initial commit
+commit cb7fd83091122b37bdd888a9847440a3f29766b3
+Merge: d8b2a8f d9ecc23
+Author: Keveone <serhiiorshuliak@gmail.com>
+Date:   Fri Oct 23 10:21:38 2026 +0300
+
+    fix conflickt
